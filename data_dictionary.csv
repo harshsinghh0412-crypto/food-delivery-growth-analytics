@@ -1,0 +1,6 @@
+table,purpose,rows
+customers,Customer master data,10000
+restaurants,Restaurant master data,500
+orders,Central transaction/fact table,100000
+delivery_partners,Delivery partner master data,2000
+order_delivery,Delivery-level operational data,91068
